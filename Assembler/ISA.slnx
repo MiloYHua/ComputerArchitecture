@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Assembler/Assembler.csproj" />
+  <Project Path="Disassembler/Disassembler.csproj" />
+  <Project Path="Emulator/Emulator.csproj" />
+  <Project Path="ISALibrary/ISALibrary.csproj" />
+  <Project Path="ISATests/ISATests.csproj" />
+</Solution>

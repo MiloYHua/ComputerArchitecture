@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C683E0-FA2A-B2D6-E92E-2459C032E917}|Disassembler\\Disassembler.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\camprepo\\assembler\\disassembler\\disassemblerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81046141-68F3-BA58-7F00-FECC619459BD}|ISALibrary\\ISALibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\camprepo\\assembler\\isalibrary\\layouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81046141-68F3-BA58-7F00-FECC619459BD}|ISALibrary\\ISALibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\camprepo\\assembler\\isalibrary\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83447C43-2E6B-1EBD-4B50-BE83FBDBFDC0}|Assembler\\Assembler.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\camprepo\\assembler\\assembler\\assemblytext.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83447C43-2E6B-1EBD-4B50-BE83FBDBFDC0}|Assembler\\Assembler.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\camprepo\\assembler\\assembler\\assemblerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 47,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyText.asm",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\Assembler\\AssemblyText.asm",
+              "RelativeDocumentMoniker": "Assembler\\AssemblyText.asm",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\Assembler\\AssemblyText.asm",
+              "RelativeToolTip": "Assembler\\AssemblyText.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIpSURBVDhPnVNLaBNRFD0m6caFC1FEQShF0I0btaUuWiwVsV0VETcWWrUL3QhFaF24rmhXfqCClWgRhKpou7CbirULI35AQVSa2kjSfCYhM5OvmXnz5nnnzQQz2qJ44HLPfXfunft5bwMaMLv4VXjUB8uywBgDM01cn7h98M2zydfSIYT/eyeBbdvryuTDBdHac0a09Q61eyEIePqfYFIFY5eGHRqpJ/ElqBk/PLY29rRsh6ZmceRQG/bt3R2hDjZ5LheRD9/obG1wasGyuCiUqiKRyouOvnOy/9DR0ZlYTkk1BzduHmjZuQWPF5dxOTwvE74Ln8WBU7ckr2PoWAdOdDajqSnkHlDysZtPPl7bPzghtEJFOHp6IUpDc//q2A53tMVdWy9WRW//BVlBoOfibHt45tV5xwgGAxgdPIwrd\u002Bcx/TIKYTunv7bVuLSaYUodoPK7nl7tj0sLAsc7d2FkoBvj956DewENcRI0C9qIJXlo67YdL/pG7ndJB7fRetrtefhkN6h0yet/rmtGCQxa6R94/2lFmIwLTr0Wq5bQy0zqSo0LrcREiXhOZ2IplpYXyonx3YNEJo\u002BqYaNCUq5yFCscWsmCWrSQKzDkdAtZjSGp6F7EbwlSigq9zJFRTWikVQpWKCCRNaDkGb4rBtLkS62XgEqnOQgkE3GkV2MkK1CSyyRRZJJLyK5\u002BQTr\u002BmR6WO0AHvtd4Y2pOTD145Fl/x9u5O774/wDwE57kfrQjf4yMAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-07-29T01:05:28.216Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\ISALibrary\\Utility.cs",
+              "RelativeDocumentMoniker": "ISALibrary\\Utility.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\ISALibrary\\Utility.cs",
+              "RelativeToolTip": "ISALibrary\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T03:10:25.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layouts.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\ISALibrary\\Layouts.cs",
+              "RelativeDocumentMoniker": "ISALibrary\\Layouts.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\ISALibrary\\Layouts.cs",
+              "RelativeToolTip": "ISALibrary\\Layouts.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvzcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T02:17:08.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisassemblerProgram.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\Disassembler\\DisassemblerProgram.cs",
+              "RelativeDocumentMoniker": "Disassembler\\DisassemblerProgram.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\Disassembler\\DisassemblerProgram.cs",
+              "RelativeToolTip": "Disassembler\\DisassemblerProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T03:03:57.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblerProgram.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\Assembler\\AssemblerProgram.cs",
+              "RelativeDocumentMoniker": "Assembler\\AssemblerProgram.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\CampRepo\\Assembler\\Assembler\\AssemblerProgram.cs",
+              "RelativeToolTip": "Assembler\\AssemblerProgram.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T00:59:13.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\bin\Debug\net10.0\OpCodeMath.exe
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\bin\Debug\net10.0\OpCodeMath.deps.json
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\bin\Debug\net10.0\OpCodeMath.runtimeconfig.json
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\bin\Debug\net10.0\OpCodeMath.dll
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\bin\Debug\net10.0\OpCodeMath.pdb
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\obj\Debug\net10.0\OpCodeMath.GeneratedMSBuildEditorConfig.editorconfig
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\obj\Debug\net10.0\OpCodeMath.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\obj\Debug\net10.0\OpCodeMath.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\obj\Debug\net10.0\OpCodeMath.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\obj\Debug\net10.0\OpCodeMath.dll
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\obj\Debug\net10.0\refint\OpCodeMath.dll
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\obj\Debug\net10.0\OpCodeMath.pdb
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\obj\Debug\net10.0\OpCodeMath.genruntimeconfig.cache
+\\GMRDC1\Folder Redirection\milo.hua\Documents\CampRepo\IntToBinary\Math\obj\Debug\net10.0\ref\OpCodeMath.dll

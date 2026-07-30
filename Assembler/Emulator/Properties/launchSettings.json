@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Emulator": {
+      "commandName": "Project",
+      "commandLineArgs": "Z:\\\\machine_code.bin"
+    }
+  }
+}

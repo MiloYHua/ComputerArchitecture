@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DoMath/DoMath.csproj" Id="fc92c0ac-0d1a-4190-a203-a69ca53b025a" />
+  <Project Path="LoopThroughArrayWithoutLoopingAndWithoutArray/LoopThroughArrayWithoutLoopingAndWithoutArray.csproj" Id="afc1d432-c07f-4be6-b197-2cafedbc1676" />
+  <Project Path="Math/OpCodeMath.csproj" Id="a77e1e72-8668-4f13-86a1-f542e1a7fd61" />
+  <Project Path="NearestPow2/NearestPow2.csproj" Id="ecdb6ea0-1a89-4169-9162-1e5f87eebca3" />
+  <Project Path="UIntToBinary/UIntToBinary.csproj" />
+</Solution>
