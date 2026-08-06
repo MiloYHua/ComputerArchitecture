@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "JVMLibrary\\JVMLibrary.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "New Profile (1)",
+    "Projects": [
+      {
+        "Path": "Test\\Test.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

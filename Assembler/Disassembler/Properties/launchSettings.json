@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Disassembler": {
-        "commandName": "Project",
-        "commandLineArgs": "Z:\\machine_code.bin Z:\\disassembled_code.bin"
-    }
-  }
-}

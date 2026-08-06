@@ -1,0 +1,12 @@
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\bin\Debug\net10.0\JVMLibrary.deps.json
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\bin\Debug\net10.0\JVMLibrary.dll
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\bin\Debug\net10.0\JVMLibrary.pdb
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.sourcelink.json
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.dll
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\refint\JVMLibrary.dll
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.pdb
+\\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\ref\JVMLibrary.dll
