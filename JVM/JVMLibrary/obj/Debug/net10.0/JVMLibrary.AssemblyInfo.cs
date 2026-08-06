@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JVMLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+413bb472d3a140efe5c50ce210a546d071853623")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8822276a151004dcd4440a21cb527ef2dd82b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("JVMLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JVMLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

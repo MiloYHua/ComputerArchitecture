@@ -1,4 +1,6 @@
-﻿namespace JVMLibrary
+﻿using JVMLibrary.Utility;
+
+namespace JVMLibrary
 {
     public abstract class ConstantPoolInfo
     {
@@ -86,7 +88,7 @@
             List<byte> combineHelper = [];
             combineHelper.AddBytes(Tag)
                          .AddBytes(Length)
-                         .AddRange(Bytes);
+                         .AddBytes(Bytes);
 
             return combineHelper.ToArray();
         }

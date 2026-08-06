@@ -1,4 +1,5 @@
 ﻿using JVMLibrary;
+using JVMLibrary.Utility;
 using System.Text;
 
 namespace LibraryTests
@@ -16,7 +17,7 @@ namespace LibraryTests
 
                 ushort expected = (ushort)randy.Next(ushort.MaxValue);
 
-                byte[] result = Utility.ToBytes(expected);
+                byte[] result = Conversions.ToBytes(expected);
 
                 ushort actual = 0;
 
@@ -38,7 +39,7 @@ namespace LibraryTests
 
                 uint expected = (uint)randy.NextInt64(uint.MaxValue);
 
-                byte[] result = Utility.ToBytes(expected);
+                byte[] result = Conversions.ToBytes(expected);
 
                 uint actual = 0;
 
@@ -50,9 +51,8 @@ namespace LibraryTests
         }
 
         [Theory]
-        [InlineData("")]
-        [InlineData(345, 6345634, 56534, 2356654, 4365)]
-        public void UIntToBytesTest(params string[] args)
+        [InlineData("Z:\\JVMCode\\MiloJVMCodeCoolProgram.class")]
+        public void ParseAndEmitTest(params string[] args)
         {
             foreach (string s in args)
             {
@@ -61,11 +61,10 @@ namespace LibraryTests
 
                 classFile.Parse(code);
                 byte[] johnnyBytes = classFile.EmitBytes().ToArray();
-                bool bobby = true;
 
                 for (int i = 0; i < johnnyBytes.Length; i++)
                 {
-                    if (code[i] != johnnyBytes[i]) bobby = false;
+                    if (code[i] != johnnyBytes[i]) Assert.Fail();
                 }
             }
         }

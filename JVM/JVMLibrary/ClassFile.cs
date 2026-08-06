@@ -1,4 +1,9 @@
-﻿namespace JVMLibrary
+﻿using JVMLibrary.Information;
+using JVMLibrary.Attributes;
+using JVMLibrary.Utility;
+using System.Text;
+
+namespace JVMLibrary
 {
     public class ClassFile
     {
@@ -30,16 +35,40 @@
             MinorVersion = bytecode.CutU2();
             MajorVersion = bytecode.CutU2();
             ConstantPoolCount = bytecode.CutU2();
-            ConstantPool = new ConstantPoolInfo[ConstantPoolCount - 1];
+            ConstantPool = new ConstantPoolInfo[ConstantPoolCount];
 
-            for (int i = 0; i < ConstantPool.Length; i++) ConstantPool[i] = ConstantPoolInfo.TagInfoPairs[(ConstantPoolTag)bytecode.CutU1()](ref bytecode);
+            for (int i = 1; i < ConstantPool.Length; i++) ConstantPool[i] = ConstantPoolInfo.TagInfoPairs[(ConstantPoolTag)bytecode.CutU1()](ref bytecode);
 
             AccessFlags = (AccessFlags)bytecode.CutU2();
             ThisClass = bytecode.CutU2();
             SuperClass = bytecode.CutU2();
             InterfacesCount = bytecode.CutU2();
+            Interfaces = new ushort[InterfacesCount];
 
+            for (int i = 0; i < InterfacesCount; i++) Interfaces[i] = bytecode.CutU2();
 
+            FieldsCount = bytecode.CutU2();
+            Fields = new FieldInfo[FieldsCount];
+
+            for (int i = 0; i < FieldsCount; i++) Fields[i] = new FieldInfo(ref bytecode, ConstantPool);
+
+            MethodsCount = bytecode.CutU2();
+            Methods = new MethodInfo[MethodsCount];
+
+            for (int i = 0; i < MethodsCount; i++) Methods[i] = new MethodInfo(ref bytecode, ConstantPool);
+
+            AttributesCount = bytecode.CutU2();
+            Attributes = new AttributeInfo[AttributesCount];
+
+            for (int i = 0; i < AttributesCount; i++)
+            {
+                if (ConstantPool[Conversions.ToUShort(bytecode.Slice(0, 2))] is not ConstUtf8Info utf8Info)
+                {
+                    throw new InvalidOperationException($"Expected '{nameof(ConstUtf8Info)}' at '{Conversions.ToUShort(bytecode.Slice(0, 2))}'. Got '{ConstantPool[Conversions.ToUShort(bytecode.Slice(0, 2))].GetType()}' instead.");
+                }
+                string str = Encoding.UTF8.GetString(utf8Info.Bytes);
+                Attributes[i] = AttributeInfo.NameToInfo[str](ref bytecode, ConstantPool);
+            }
 
 
             return this;
@@ -54,12 +83,32 @@
                     .AddBytes(MajorVersion)
                     .AddBytes(ConstantPoolCount);
 
-            foreach (ConstantPoolInfo info in ConstantPool) bytecode.AddRange(info.EmitBytes());
+            for (int i = 1; i < ConstantPool.Length; i++)
+            {
+                ConstantPoolInfo info = ConstantPool[i];
+                bytecode.AddRange(info.EmitBytes());
+            }
 
-            bytecode.AddBytes((byte)AccessFlags)
+            bytecode.AddBytes((ushort)AccessFlags)
                     .AddBytes(ThisClass)
                     .AddBytes(SuperClass)
                     .AddBytes(InterfacesCount);
+
+            foreach (byte b in Interfaces) bytecode.AddBytes(b);
+
+            bytecode.AddBytes(FieldsCount);
+
+            foreach (FieldInfo field in Fields) bytecode.AddRange(field.EmitBytes());
+
+            bytecode.AddBytes(MethodsCount);
+
+            foreach (MethodInfo method in Methods) bytecode.AddRange(method.EmitBytes());
+
+            bytecode.AddBytes(AttributesCount);
+
+            return bytecode;
+
+            foreach (AttributeInfo attribute in Attributes) bytecode.AddRange(attribute.EmitBytes());
 
             return bytecode;
         }
@@ -67,38 +116,5 @@
 
 
 
-    public class FieldInfo
-    {
-        public AccessFlags AccessFlags { get; set; }
-
-        public ushort NameIndex { get; set; }
-
-        public ushort DescriptorIndex { get; set; }
-
-        public ushort AttributesCount { get; set; }
-
-        public AttributeInfo[] Attributes { get; set; } = [];
-    }
-
-    public class MethodInfo
-    {
-        public AccessFlags AccessFlags { get; set; }
-
-        public ushort NameIndex { get; set; }
-
-        public ushort DescriptorIndex { get; set; }
-
-        public ushort AttributesCount { get; set; }
-
-        public AttributeInfo[] Attributes { get; set; } = [];
-    }
-
-    public class AttributeInfo
-    {
-        public ushort AttributeNameIndex { get; set; }
-
-        public uint AttributeLength { get; set; }
-
-        public byte[] Info { get; set; } = [];
-    }
+    
 }

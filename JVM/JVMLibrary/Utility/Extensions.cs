@@ -1,4 +1,4 @@
-﻿namespace JVMLibrary
+﻿namespace JVMLibrary.Utility
 {
     public static class SpanExtensions
     {
@@ -45,6 +45,18 @@
             list.Add((byte)((value >> 16) & 0xFF));
             list.Add((byte)((value >> 8) & 0xFF));
             list.Add((byte)(value & 0xFF));
+            return list;
+        }
+
+        public static List<byte> AddBytes(this List<byte> list, byte[] bytes)
+        {
+            list.AddRange(bytes);
+            return list;
+        }
+
+        public static List<byte> AddBytes(this List<byte> list, List<byte> bytes)
+        {
+            list.AddRange(bytes);
             return list;
         }
     } 

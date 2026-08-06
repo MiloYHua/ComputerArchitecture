@@ -3,22 +3,40 @@
   "WorkspaceRootPath": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFE65B23-1A72-4648-81BB-0EB229494909}|Test\\Test.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\classfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\constantpoolinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\attributes\\attributeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\attributes\\codeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\attributes\\linenumbertableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\attributes\\sourcefileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CB97730-3664-455C-945A-F84668C4452F}|LibraryTests\\LibraryTests.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\librarytests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\information\\methodinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\information\\fieldinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\utility\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\utility\\conversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\jvmlibrary\\constantpoolinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE65B23-1A72-4648-81BB-0EB229494909}|Test\\Test.csproj|\\\\gmrdc1\\folder redirection\\milo.hua\\documents\\github\\isarepository\\jvm\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,60 +46,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 47,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ClassFile.cs",
               "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\ClassFile.cs",
               "RelativeDocumentMoniker": "JVMLibrary\\ClassFile.cs",
               "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\ClassFile.cs*",
               "RelativeToolTip": "JVMLibrary\\ClassFile.cs*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAD0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAgwGwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T02:06:29.823Z",
+              "WhenOpened": "2026-08-06T03:47:37.8Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Extensions.cs",
-              "RelativeDocumentMoniker": "JVMLibrary\\Extensions.cs",
-              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Extensions.cs",
-              "RelativeToolTip": "JVMLibrary\\Extensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T03:02:35.883Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Utility.cs",
-              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Utility.cs",
-              "RelativeDocumentMoniker": "JVMLibrary\\Utility.cs",
-              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Utility.cs",
-              "RelativeToolTip": "JVMLibrary\\Utility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T03:18:31.468Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\LibraryTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "LibraryTests\\UnitTest1.cs",
-              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\LibraryTests\\UnitTest1.cs",
-              "RelativeToolTip": "LibraryTests\\UnitTest1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T00:51:42.32Z",
               "EditorCaption": ""
             },
             {
@@ -98,26 +76,143 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Utility\\Extensions.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Utility\\Extensions.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Utility\\Extensions.cs",
+              "RelativeToolTip": "JVMLibrary\\Utility\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T04:16:44.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conversions.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Utility\\Conversions.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Utility\\Conversions.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Utility\\Conversions.cs",
+              "RelativeToolTip": "JVMLibrary\\Utility\\Conversions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T04:16:34.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LineNumberTableInfo.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Attributes\\LineNumberTableInfo.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Attributes\\LineNumberTableInfo.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Attributes\\LineNumberTableInfo.cs",
+              "RelativeToolTip": "JVMLibrary\\Attributes\\LineNumberTableInfo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T04:12:30.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SourceFileInfo.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Attributes\\SourceFileInfo.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Attributes\\SourceFileInfo.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Attributes\\SourceFileInfo.cs",
+              "RelativeToolTip": "JVMLibrary\\Attributes\\SourceFileInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T04:11:30.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CodeInfo.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Attributes\\CodeInfo.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Attributes\\CodeInfo.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Attributes\\CodeInfo.cs",
+              "RelativeToolTip": "JVMLibrary\\Attributes\\CodeInfo.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAIAwwFgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T04:10:28.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttributeInfo.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Attributes\\AttributeInfo.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Attributes\\AttributeInfo.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Attributes\\AttributeInfo.cs",
+              "RelativeToolTip": "JVMLibrary\\Attributes\\AttributeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T04:09:30.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MethodInfo.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Information\\MethodInfo.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Information\\MethodInfo.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Information\\MethodInfo.cs",
+              "RelativeToolTip": "JVMLibrary\\Information\\MethodInfo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwDEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T04:04:17.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FieldInfo.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Information\\FieldInfo.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Information\\FieldInfo.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\Information\\FieldInfo.cs",
+              "RelativeToolTip": "JVMLibrary\\Information\\FieldInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T04:03:27.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\LibraryTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LibraryTests\\UnitTest1.cs",
+              "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\LibraryTests\\UnitTest1.cs",
+              "RelativeToolTip": "LibraryTests\\UnitTest1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAIAwwEIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T00:51:42.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ConstantPoolInfos.cs",
               "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\ConstantPoolInfos.cs",
               "RelativeDocumentMoniker": "JVMLibrary\\ConstantPoolInfos.cs",
               "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\ConstantPoolInfos.cs",
               "RelativeToolTip": "JVMLibrary\\ConstantPoolInfos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-05T03:14:48.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
               "ToolTip": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\Test\\Program.cs",
               "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-05T01:02:38.032Z",
               "EditorCaption": ""
