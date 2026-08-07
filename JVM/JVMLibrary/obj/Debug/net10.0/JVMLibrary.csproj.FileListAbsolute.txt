@@ -10,3 +10,27 @@
 \\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\refint\JVMLibrary.dll
 \\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.pdb
 \\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\JVMLibrary\obj\Debug\net10.0\ref\JVMLibrary.dll
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.AssemblyInfoInputs.cache
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.AssemblyInfo.cs
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.sourcelink.json
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.dll
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\refint\JVMLibrary.dll
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.pdb
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\bin\Debug\net10.0\JVMLibrary.deps.json
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\bin\Debug\net10.0\JVMLibrary.dll
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\bin\Debug\net10.0\JVMLibrary.pdb
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\ref\JVMLibrary.dll
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\bin\Debug\net10.0\JVMLibrary.deps.json
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\bin\Debug\net10.0\JVMLibrary.dll
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\bin\Debug\net10.0\JVMLibrary.pdb
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.AssemblyInfoInputs.cache
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.AssemblyInfo.cs
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.sourcelink.json
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.dll
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\refint\JVMLibrary.dll
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\JVMLibrary.pdb
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\JVMLibrary\obj\Debug\net10.0\ref\JVMLibrary.dll

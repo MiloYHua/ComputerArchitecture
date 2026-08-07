@@ -1,4 +1,5 @@
-﻿using JVMLibrary.Utility;
+﻿using JVMLibrary.ConstantPoolInfos;
+using JVMLibrary.Utility;
 using System.Text;
 
 namespace JVMLibrary.Attributes

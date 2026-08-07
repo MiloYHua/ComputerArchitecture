@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\Emulator\\Emulator.csproj": {}
+    "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\Emulator.csproj": {}
   },
   "projects": {
-    "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\Emulator\\Emulator.csproj": {
+    "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\Emulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\Emulator\\Emulator.csproj",
+        "projectUniqueName": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\Emulator.csproj",
         "projectName": "Emulator",
-        "projectPath": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\Emulator\\Emulator.csproj",
-        "packagesPath": "C:\\Users\\milo.hua\\.nuget\\packages\\",
-        "outputPath": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\Emulator\\obj\\",
+        "projectPath": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\Emulator.csproj",
+        "packagesPath": "C:\\Users\\MilosPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\milo.hua\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MilosPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,8 +29,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\JVMLibrary.csproj": {
-                "projectPath": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\JVMLibrary.csproj"
+              "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\JVMLibrary.csproj": {
+                "projectPath": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\JVMLibrary.csproj"
               }
             }
           }
@@ -350,22 +345,17 @@
         }
       }
     },
-    "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\JVMLibrary.csproj": {
+    "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\JVMLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\JVMLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\JVMLibrary.csproj",
         "projectName": "JVMLibrary",
-        "projectPath": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\JVMLibrary.csproj",
-        "packagesPath": "C:\\Users\\milo.hua\\.nuget\\packages\\",
-        "outputPath": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\JVM\\JVMLibrary\\obj\\",
+        "projectPath": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\JVMLibrary.csproj",
+        "packagesPath": "C:\\Users\\MilosPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\milo.hua\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MilosPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

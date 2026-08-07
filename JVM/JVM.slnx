@@ -2,5 +2,4 @@
   <Project Path="Emulator/Emulator.csproj" Id="111651eb-c19c-4ae0-88fa-e0e2f581993d" />
   <Project Path="JVMLibrary/JVMLibrary.csproj" />
   <Project Path="LibraryTests/LibraryTests.csproj" Id="0cb97730-3664-455c-945a-f84668c4452f" />
-  <Project Path="Test/Test.csproj" Id="efe65b23-1a72-4648-81bb-0eb229494909" />
 </Solution>

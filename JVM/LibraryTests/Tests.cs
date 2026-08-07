@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LibraryTests
 {
-    public class UnitTest1
+    public class Tests
     {
         [Theory]
         [InlineData(2345, 1234546, 1234123, 12245)]
@@ -50,9 +50,33 @@ namespace LibraryTests
             }
         }
 
-        [Theory]
-        [InlineData("Z:\\JVMCode\\MiloJVMCodeCoolProgram.class")]
-        public void ParseAndEmitTest(params string[] args)
+		[Theory]
+		[InlineData("Z:\\\\JVMCode\\\\MiloJVMCodeCoolProgram.class")]
+		public void GMRParseAndEmitTest(params string[] args)
+		{
+			foreach (string s in args)
+			{
+				byte[] code = File.ReadAllBytes(args[0]);
+				ClassFile classFile = new ClassFile();
+
+				classFile.Parse(code);
+				byte[] johnnyBytes = classFile.EmitBytes().ToArray();
+
+				ReadOnlySpan<byte> debugViewBytes = johnnyBytes;
+				debugViewBytes = debugViewBytes.Slice(250, 54);
+				ReadOnlySpan<byte> debugViewBytes2 = code;
+				debugViewBytes2 = debugViewBytes2.Slice(250, 54);
+
+				for (int i = 0; i < johnnyBytes.Length; i++)
+				{
+					if (code[i] != johnnyBytes[i]) Assert.Fail();
+				}
+			}
+		}
+
+		[Theory]
+        [InlineData("C:\\Users\\MilosPC\\Documents\\Code\\VS Code\\JVM Sample Code\\JavaCode.class")]
+        public void HomeParseAndEmitTest(params string[] args)
         {
             foreach (string s in args)
             {

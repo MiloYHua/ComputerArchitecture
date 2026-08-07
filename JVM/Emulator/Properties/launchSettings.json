@@ -2,7 +2,7 @@
   "profiles": {
     "Emulator": {
       "commandName": "Project",
-      "commandLineArgs": "Z:\\\\JVMCode\\\\MiloJVMCodeCoolProgram.class"
+      "commandLineArgs": "Z:\\insertstuff C:\\Users\\MilosPC\\Documents\\Code\\VSCode\\JVMSampleCode\\JavaCode.class"
     }
   }
 }

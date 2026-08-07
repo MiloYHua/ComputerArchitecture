@@ -1,4 +1,6 @@
-﻿namespace JVMLibrary.Attributes
+﻿using JVMLibrary.ConstantPoolInfos;
+
+namespace JVMLibrary.Attributes
 {
     public abstract class AttributeInfo
     {

@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\ISA\\ISATests\\ISATests.csproj": {}
+    "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\ISA\\ISATests\\ISATests.csproj": {}
   },
   "projects": {
-    "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\ISA\\ISATests\\ISATests.csproj": {
+    "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\ISA\\ISATests\\ISATests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\ISA\\ISATests\\ISATests.csproj",
+        "projectUniqueName": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\ISA\\ISATests\\ISATests.csproj",
         "projectName": "ISATests",
-        "projectPath": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\ISA\\ISATests\\ISATests.csproj",
-        "packagesPath": "C:\\Users\\milo.hua\\.nuget\\packages\\",
-        "outputPath": "\\\\GMRDC1\\Folder Redirection\\milo.hua\\Documents\\GitHub\\ISARepository\\ISA\\ISATests\\obj\\",
+        "projectPath": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\ISA\\ISATests\\ISATests.csproj",
+        "packagesPath": "C:\\Users\\MilosPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\ISA\\ISATests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\milo.hua\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MilosPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,4 +1,5 @@
-﻿using JVMLibrary.Information;
+﻿using JVMLibrary.ConstantPoolInfos;
+using JVMLibrary.Information;
 using JVMLibrary.Attributes;
 using JVMLibrary.Utility;
 using System.Text;
@@ -7,8 +8,8 @@ namespace JVMLibrary
 {
     public class ClassFile
     {
-        #region Baloney
-        public uint Magic { get; set; }
+		#region Properties
+		public uint Magic { get; set; }
         public ushort MinorVersion { get; set; }
         public ushort MajorVersion { get; set; }
         public ushort ConstantPoolCount { get; set; }
@@ -35,7 +36,7 @@ namespace JVMLibrary
             MinorVersion = bytecode.CutU2();
             MajorVersion = bytecode.CutU2();
             ConstantPoolCount = bytecode.CutU2();
-            ConstantPool = new ConstantPoolInfo[ConstantPoolCount];
+			ConstantPool = new ConstantPoolInfo[ConstantPoolCount];
 
             for (int i = 1; i < ConstantPool.Length; i++) ConstantPool[i] = ConstantPoolInfo.TagInfoPairs[(ConstantPoolTag)bytecode.CutU1()](ref bytecode);
 
@@ -69,7 +70,6 @@ namespace JVMLibrary
                 string str = Encoding.UTF8.GetString(utf8Info.Bytes);
                 Attributes[i] = AttributeInfo.NameToInfo[str](ref bytecode, ConstantPool);
             }
-
 
             return this;
         }
@@ -111,8 +111,4 @@ namespace JVMLibrary
             return bytecode;
         }
     }
-
-
-
-    
 }

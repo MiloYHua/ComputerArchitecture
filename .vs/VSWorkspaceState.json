@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.git",
+    "\\JVM",
+    "\\JVM\\.vs",
+    "\\JVM\\.vs\\JVM.slnx"
   ],
+  "SelectedNode": "\\JVM\\.vs\\ProjectEvaluation",
   "PreviewInSolutionExplorer": false
 }

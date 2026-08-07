@@ -17,3 +17,41 @@
 \\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\Emulator\obj\Debug\net10.0\Emulator.pdb
 \\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\Emulator\obj\Debug\net10.0\Emulator.genruntimeconfig.cache
 \\GMRDC1\Folder Redirection\milo.hua\Documents\GitHub\ISARepository\JVM\Emulator\obj\Debug\net10.0\ref\Emulator.dll
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.csproj.AssemblyReference.cache
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.AssemblyInfoInputs.cache
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.AssemblyInfo.cs
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.sourcelink.json
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.dll
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\refint\Emulator.dll
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.pdb
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\Emulator.exe
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\Emulator.deps.json
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\Emulator.runtimeconfig.json
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\Emulator.dll
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\Emulator.pdb
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\JVMLibrary.dll
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\JVMLibrary.pdb
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.csproj.Up2Date
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.genruntimeconfig.cache
+C:\Users\MilosPC\Documents\Code\Github Repositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\ref\Emulator.dll
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\Emulator.exe
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\Emulator.deps.json
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\Emulator.runtimeconfig.json
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\Emulator.dll
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\Emulator.pdb
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\JVMLibrary.dll
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\bin\Debug\net10.0\JVMLibrary.pdb
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.csproj.AssemblyReference.cache
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.AssemblyInfoInputs.cache
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.AssemblyInfo.cs
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.sourcelink.json
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.csproj.Up2Date
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.dll
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\refint\Emulator.dll
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.pdb
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\Emulator.genruntimeconfig.cache
+C:\Users\MilosPC\Documents\Code\GithubRepositories\Visual Studio (2026)\Computer Architecture\JVM\Emulator\obj\Debug\net10.0\ref\Emulator.dll
