@@ -9,7 +9,7 @@ namespace Emulator
 {
 	public class Identify
 	{
-		private static bool CheckMethod(ClassFile classFile, MethodInfo method)
+		private static bool CheckMethodForMain(ClassFile classFile, MethodInfo method)
 		{
 			if (!method.AccessFlags.HasFlag(AccessFlags.ACC_PUBLIC))
 				return false;
@@ -32,14 +32,14 @@ namespace Emulator
 			return true;
 		}
 
-		public static MethodInfo FindMainMethod(ClassFile classFile)
+		public static MethodInfo IdentifyMain(ClassFile classFile)
 		{
 			MethodInfo mainMethod = new MethodInfo();
 			bool mainMethodFound = false;
 
 			foreach (MethodInfo method in classFile.Methods)
 			{
-				if (CheckMethod(classFile, method))
+				if (CheckMethodForMain(classFile, method))
 				{
 					if (mainMethodFound) throw new MultipleMainMethodsException($"Multiple main methods found, '{method}' and '{mainMethod}'.");
 					mainMethodFound = true;

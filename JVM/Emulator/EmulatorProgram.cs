@@ -15,10 +15,10 @@ namespace Emulator
 
 			classFile.Parse(bytecode);
 
-			MethodInfo mainMethod = Identify.FindMainMethod(classFile);
+			MethodInfo mainMethod = Identify.IdentifyMain(classFile);
 			CodeAttributeInfo codeInfo = Identify.IdentifyCodeInfo(classFile, mainMethod);
 
-			Stack<byte> operands = new Stack<byte>(codeInfo.MaxStack);
+			Stack<object> operands = new Stack<object>(codeInfo.MaxStack);
 			long[] variables = new long[codeInfo.MaxLocals];
 			ReadOnlySpan<byte> code = codeInfo.Code;
 

@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{111651EB-C19C-4AE0-88FA-E0E2F581993D}|Emulator\\Emulator.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\emulator\\identify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{111651EB-C19C-4AE0-88FA-E0E2F581993D}|Emulator\\Emulator.csproj|solutionrelative:emulator\\identify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\jvmlibrary\\instructions\\jvm_iload_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|solutionrelative:jvmlibrary\\instructions\\jvm_iload_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\jvmlibrary\\instructions\\jvm_istore_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|solutionrelative:jvmlibrary\\instructions\\jvm_istore_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\jvmlibrary\\instructions\\jvm_istore_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|solutionrelative:jvmlibrary\\instructions\\jvm_istore_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\jvmlibrary\\instructions\\instruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|solutionrelative:jvmlibrary\\instructions\\instruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\jvmlibrary\\instructions\\jvm_bipush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|solutionrelative:jvmlibrary\\instructions\\jvm_bipush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\jvmlibrary\\instructions\\jvm_iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|solutionrelative:jvmlibrary\\instructions\\jvm_iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\jvmlibrary\\instructions\\jvm_iload_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|solutionrelative:jvmlibrary\\instructions\\jvm_iload_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\jvmlibrary\\instructions\\jvm_istore_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|solutionrelative:jvmlibrary\\instructions\\jvm_istore_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{111651EB-C19C-4AE0-88FA-E0E2F581993D}|Emulator\\Emulator.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\emulator\\emulatorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{111651EB-C19C-4AE0-88FA-E0E2F581993D}|Emulator\\Emulator.csproj|solutionrelative:emulator\\emulatorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\jvmlibrary\\attributes\\attributeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|solutionrelative:jvmlibrary\\attributes\\attributeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\jvmlibrary\\constantpoolinfos\\constantpoolinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7C2392-8DFF-8D8F-5A82-D2A6319312CC}|JVMLibrary\\JVMLibrary.csproj|solutionrelative:jvmlibrary\\constantpoolinfos\\constantpoolinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111651EB-C19C-4AE0-88FA-E0E2F581993D}|Emulator\\Emulator.csproj|c:\\users\\milospc\\documents\\code\\githubrepositories\\visual studio (2026)\\computer architecture\\jvm\\emulator\\identify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111651EB-C19C-4AE0-88FA-E0E2F581993D}|Emulator\\Emulator.csproj|solutionrelative:emulator\\identify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 47,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Identify.cs",
-              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\Identify.cs",
-              "RelativeDocumentMoniker": "Emulator\\Identify.cs",
-              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\Identify.cs",
-              "RelativeToolTip": "Emulator\\Identify.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T06:54:07.418Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -43,13 +70,154 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JVM_istore_3.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_istore_3.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Instructions\\JVM_istore_3.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_istore_3.cs*",
+              "RelativeToolTip": "JVMLibrary\\Instructions\\JVM_istore_3.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T16:31:49.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JVM_iadd.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_iadd.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Instructions\\JVM_iadd.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_iadd.cs*",
+              "RelativeToolTip": "JVMLibrary\\Instructions\\JVM_iadd.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T16:25:49.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JVM_iload_2.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_iload_2.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Instructions\\JVM_iload_2.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_iload_2.cs*",
+              "RelativeToolTip": "JVMLibrary\\Instructions\\JVM_iload_2.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T16:24:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JVM_iload_1.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_iload_1.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Instructions\\JVM_iload_1.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_iload_1.cs*",
+              "RelativeToolTip": "JVMLibrary\\Instructions\\JVM_iload_1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T16:09:20.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttributeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Attributes\\AttributeInfo.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Attributes\\AttributeInfo.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Attributes\\AttributeInfo.cs",
+              "RelativeToolTip": "JVMLibrary\\Attributes\\AttributeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T16:04:39.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConstantPoolInfo.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\ConstantPoolInfos\\ConstantPoolInfo.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\ConstantPoolInfos\\ConstantPoolInfo.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\ConstantPoolInfos\\ConstantPoolInfo.cs",
+              "RelativeToolTip": "JVMLibrary\\ConstantPoolInfos\\ConstantPoolInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T16:04:32.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instruction.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\Instruction.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Instructions\\Instruction.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\Instruction.cs*",
+              "RelativeToolTip": "JVMLibrary\\Instructions\\Instruction.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T15:56:02.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JVM_bipush.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_bipush.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Instructions\\JVM_bipush.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_bipush.cs",
+              "RelativeToolTip": "JVMLibrary\\Instructions\\JVM_bipush.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T16:00:29.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "JVM_istore_2.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_istore_2.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Instructions\\JVM_istore_2.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_istore_2.cs",
+              "RelativeToolTip": "JVMLibrary\\Instructions\\JVM_istore_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T15:58:06.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JVM_istore_1.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_istore_1.cs",
+              "RelativeDocumentMoniker": "JVMLibrary\\Instructions\\JVM_istore_1.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\JVMLibrary\\Instructions\\JVM_istore_1.cs*",
+              "RelativeToolTip": "JVMLibrary\\Instructions\\JVM_istore_1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T15:54:08.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Identify.cs",
+              "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\Identify.cs",
+              "RelativeDocumentMoniker": "Emulator\\Identify.cs",
+              "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\Identify.cs",
+              "RelativeToolTip": "Emulator\\Identify.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T06:54:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EmulatorProgram.cs",
               "DocumentMoniker": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\EmulatorProgram.cs",
               "RelativeDocumentMoniker": "Emulator\\EmulatorProgram.cs",
               "ToolTip": "C:\\Users\\MilosPC\\Documents\\Code\\GithubRepositories\\Visual Studio (2026)\\Computer Architecture\\JVM\\Emulator\\EmulatorProgram.cs",
               "RelativeToolTip": "Emulator\\EmulatorProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-07T06:54:06.564Z",
               "EditorCaption": ""
