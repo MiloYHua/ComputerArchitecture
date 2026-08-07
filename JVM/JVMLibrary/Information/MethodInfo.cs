@@ -16,6 +16,8 @@ namespace JVMLibrary.Information
 
         public AttributeInfo[] Attributes { get; set; } = [];
 
+        public MethodInfo() { }
+
         public MethodInfo(ref ReadOnlySpan<byte> bytecode, ConstantPoolInfo[] constantPool)
         {
             AccessFlags = (AccessFlags)bytecode.CutU2();

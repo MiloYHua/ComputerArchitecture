@@ -25,6 +25,8 @@ namespace JVMLibrary.Attributes
             public ushort CatchType { get; set; }
         }
 
+        public CodeAttributeInfo() { }
+
         public CodeAttributeInfo(ref ReadOnlySpan<byte> bytecode, ConstantPoolInfo[] ConstantPool)
         {
             AttributeNameIndex = bytecode.CutU2();
