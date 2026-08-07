@@ -62,6 +62,11 @@ namespace LibraryTests
                 classFile.Parse(code);
                 byte[] johnnyBytes = classFile.EmitBytes().ToArray();
 
+                ReadOnlySpan<byte> debugViewBytes = johnnyBytes;
+                debugViewBytes = debugViewBytes.Slice(250, 54);
+                ReadOnlySpan<byte> debugViewBytes2 = code;
+                debugViewBytes2 = debugViewBytes2.Slice(250, 54);
+
                 for (int i = 0; i < johnnyBytes.Length; i++)
                 {
                     if (code[i] != johnnyBytes[i]) Assert.Fail();

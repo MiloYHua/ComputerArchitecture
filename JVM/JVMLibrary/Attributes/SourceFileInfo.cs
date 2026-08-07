@@ -8,6 +8,8 @@ namespace JVMLibrary.Attributes
 
         public SourceFileAttributeInfo(ref ReadOnlySpan<byte> bytecode, ConstantPoolInfo[] constantPool)
         {
+            AttributeNameIndex = bytecode.CutU2();
+            AttributeLength = bytecode.CutU4();
             SourceFileIndex = bytecode.CutU2();
         }
 

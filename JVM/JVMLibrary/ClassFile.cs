@@ -106,8 +106,6 @@ namespace JVMLibrary
 
             bytecode.AddBytes(AttributesCount);
 
-            return bytecode;
-
             foreach (AttributeInfo attribute in Attributes) bytecode.AddRange(attribute.EmitBytes());
 
             return bytecode;
