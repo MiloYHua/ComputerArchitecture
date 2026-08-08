@@ -11,7 +11,7 @@ namespace JVMLibrary.Instructions
 
         public override void Decode(ReadOnlySpan<byte> bytecode)
         {
-            Value = bytecode.CutU1();
+            Value = bytecode[1];
         }
 
         public override void Execute(Stack<object> operands, long[] variables)

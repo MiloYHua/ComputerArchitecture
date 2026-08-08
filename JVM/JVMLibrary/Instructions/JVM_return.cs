@@ -18,7 +18,7 @@ namespace JVMLibrary.Instructions
 
 		public override void Execute(Stack<object> operands, long[] variables)
 		{
-			throw new NotImplementedException();
+			//Done with code, nothing to do
 		}
 	}
 }

@@ -1,8 +1,8 @@
 {
   "profiles": {
     "Emulator": {
-      "commandName": "Project",
-      "commandLineArgs": "Z:\\insertstuff C:\\Users\\MilosPC\\Documents\\Code\\VSCode\\JVMSampleCode\\JavaCode.class"
+        "commandName": "Project",
+        "commandLineArgs": "Z:\\JVMCode\\JavaCode.class C:\\\\Users\\\\MilosPC\\\\Documents\\\\Code\\\\VSCode\\\\JVMSampleCode\\\\JavaCode.class"
     }
   }
 }
